@@ -1,4 +1,4 @@
-# HelloID-Conn-Prov-Target-Aeries
+# HelloID-Conn-Prov-Target-Aeries-SIS
 
 ## Automation Tasks
 - Sync Email Addresses from AD to Aeries for Staff via SQL
